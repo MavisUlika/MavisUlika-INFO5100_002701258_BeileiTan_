@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><BookShelf>
+    <Book title="id01">
+        <publishedYear>1999</publishedYear>
+        <numberOfPages>200</numberOfPages>
+        <author>a1</author>
+        <author>a2</author>
+        <author>a3</author>
+    </Book>
+
+    <Book title="id02">
+        <publishedYear>2000</publishedYear>
+        <numberOfPages>210</numberOfPages>
+        <author>b1</author>
+        <author>b2</author>
+        <author>b3</author>
+    </Book>
+
+    <Book title="id03">
+        <publishedYear>2001</publishedYear>
+        <numberOfPages>220</numberOfPages>
+        <author>c1</author>
+        <author>c2</author>
+        <author>c3</author>
+    </Book>
+</BookShelf>
